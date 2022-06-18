@@ -5,7 +5,6 @@ My favourite technologies it's an Angular ,Cordova & Ionic. I have also experien
 
 If you have any questions, don't hesitate to leave a message
 Cheers!
-[local-weather-app ](https://local-weatherapp.remahmassri96.vercel.app/)
 
 <!--
 **RemahMassri96/RemahMassri96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
